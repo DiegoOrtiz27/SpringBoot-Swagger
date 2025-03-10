@@ -1,9 +1,7 @@
 package com.swagger.presentation.controller;
 
-import com.swagger.presentation.Schema.ErrorResponse;
-import com.swagger.presentation.dto.AuthLoginRequest;
-import com.swagger.presentation.dto.AuthResponse;
 import com.swagger.presentation.dto.ClubDTO;
+import com.swagger.presentation.schema.ErrorResponse;
 import com.swagger.service.interfaces.IClubService;
 
 import io.swagger.v3.oas.annotations.Operation;
